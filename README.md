@@ -1,2 +1,2 @@
 # ESILV_Stats
-2nd year project of Statistica
+2nd year project of Statistics
